@@ -1,0 +1,13 @@
+District Name -> jsjdjsd
+Voters -> 20
+Parties -> 1
+
+Party: gerb, Percentage of Votes: 65.00%
+
+District Name -> opop
+Voters -> 13
+Parties -> 2
+
+Party: gerbsdf, Percentage of Votes: 23.08%
+Party: asdasf, Percentage of Votes: 30.77%
+

@@ -1,0 +1,11 @@
+Constituency Name -> fhahdjs
+Voters -> 2
+Parties -> 0
+
+
+Constituency Name -> ooapdspa
+Voters -> 3
+Parties -> 1
+
+Party: gdfgfdsf, Percentage of Votes: 66.67%
+
